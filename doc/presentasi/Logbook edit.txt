@@ -7,3 +7,4 @@ membuat akun trello dan bespoke
 Hari ke tiga
 # hari saya menambahkan logbook
 # kemaren saya mendaftar trello dan git hub
+# saya akan melakukan update setiap pagi
