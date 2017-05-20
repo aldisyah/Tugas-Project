@@ -1,3 +1,22 @@
+================================================
+Informasi Umun
+
+Nama Kelompok : 3
+Topik 	: Mobil Terbang
+Alamat GitHub :
+Alamat Trello :
+
+Nama Anggota : Aldi Syaputra
+NIM	: 151111666
+Kelas : TI-B_Pagi
+
+Spritn 1:
+Mulai samapai Berakhir
+Scrummaster : Aldi Syaputra [151111666]
+
+Progres Harian (Update Yang dilakukan setiap hari)
+-----------------------------------------------------------------------------------------------------------
+
 Hari pertama
 #membaca dan memahami penggunaan Bespoke
 
@@ -7,3 +26,11 @@ membuat akun trello dan bespoke
 Hari ke tiga
 # hari saya menambahkan logbook
 # kemaren saya mendaftar trello dan git hub
+
+Hari Ke Empat
+# Libur
+#mengerjakan Tugas Lain
+
+Hari Ke Lima
+#Memikirkan apa yang akan dilakukan
+#Mencari Artikel Yang Bermakna Teknologi
