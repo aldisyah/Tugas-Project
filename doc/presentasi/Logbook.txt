@@ -3,8 +3,8 @@ Informasi Umun
 
 Nama Kelompok : 3
 Topik 	: Mobil Terbang
-Alamat GitHub :
-Alamat Trello :
+Alamat GitHub : https://github.com/aldisyah/Tugas-Project/blob/master/doc/presentasi/Logbook.txt
+Alamat Trello : https://trello.com/b/gmTlcBaW/mobil-terbang
 
 Nama Anggota : Aldi Syaputra
 NIM	: 151111666
