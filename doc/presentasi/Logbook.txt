@@ -34,3 +34,11 @@ Hari Ke Empat
 Hari Ke Lima
 #Memikirkan apa yang akan dilakukan
 #Mencari Artikel Yang Bermakna Teknologi
+
+Hari ke tujuh
+#Libur
+#masuk kuliah sampai sore
+
+Hari ke depalan
+#Mulai mengerjakan Slide Prentase
+#Belajar Bespoke.JS
