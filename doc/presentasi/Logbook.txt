@@ -42,3 +42,7 @@ Hari ke tujuh
 Hari ke depalan
 #Mulai mengerjakan Slide Prentase
 #Belajar Bespoke.JS
+
+Hari ke sembilan
+#melakukan editing pada bespoke
+#mempelajari tentang script bespoke
