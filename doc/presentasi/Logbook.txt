@@ -46,3 +46,7 @@ Hari ke depalan
 Hari ke sembilan
 #melakukan editing pada bespoke
 #mempelajari tentang script bespoke
+
+Hari ke sepuluh
+#Melajutkan pengerjaan bespoke
+#mendapatkan kesulitan untuk mengubah tampilan
