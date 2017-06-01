@@ -55,3 +55,15 @@ Hari ke sebelas
 #libur beberapa hari
 #mengerjakan tugas lain
 #melanjutkan editing bespoke
+
+Hari ke duabelas
+#mengubah tampilan bespoke
+#menghubungkan bespoke dengan trello
+
+Hari Ketiga Belas
+#Lupa Push
+#Mengerjakan Tugas Lain
+
+Hari Ke Empat Belas
+#Melakukan Push
+#Mengedit Trello
